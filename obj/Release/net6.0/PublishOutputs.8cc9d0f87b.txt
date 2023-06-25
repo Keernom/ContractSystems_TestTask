@@ -1,0 +1,14 @@
+D:\WORK\Коммерческие контракты\TestTask_ContractSystems\bin\Release\net6.0\publish\TestTask_ContractSystems.exe
+D:\WORK\Коммерческие контракты\TestTask_ContractSystems\bin\Release\net6.0\publish\TestTask_ContractSystems.dll
+D:\WORK\Коммерческие контракты\TestTask_ContractSystems\bin\Release\net6.0\publish\TestTask_ContractSystems.deps.json
+D:\WORK\Коммерческие контракты\TestTask_ContractSystems\bin\Release\net6.0\publish\TestTask_ContractSystems.runtimeconfig.json
+D:\WORK\Коммерческие контракты\TestTask_ContractSystems\bin\Release\net6.0\publish\TestTask_ContractSystems.pdb
+D:\WORK\Коммерческие контракты\TestTask_ContractSystems\bin\Release\net6.0\publish\Aspose.HTML.dll
+D:\WORK\Коммерческие контракты\TestTask_ContractSystems\bin\Release\net6.0\publish\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WORK\Коммерческие контракты\TestTask_ContractSystems\bin\Release\net6.0\publish\Microsoft.Win32.SystemEvents.dll
+D:\WORK\Коммерческие контракты\TestTask_ContractSystems\bin\Release\net6.0\publish\System.Diagnostics.DiagnosticSource.dll
+D:\WORK\Коммерческие контракты\TestTask_ContractSystems\bin\Release\net6.0\publish\System.Drawing.Common.dll
+D:\WORK\Коммерческие контракты\TestTask_ContractSystems\bin\Release\net6.0\publish\System.Security.Permissions.dll
+D:\WORK\Коммерческие контракты\TestTask_ContractSystems\bin\Release\net6.0\publish\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+D:\WORK\Коммерческие контракты\TestTask_ContractSystems\bin\Release\net6.0\publish\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\WORK\Коммерческие контракты\TestTask_ContractSystems\bin\Release\net6.0\publish\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
